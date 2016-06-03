@@ -61,8 +61,6 @@ export const Link = ({ children, ...props }) => (
  */
 export class Route extends Component {
   static displayName = 'rc-route'
-  static defaultProps = {
-  }
   static propTypes = {
     path: PropTypes.string,
     component: PropTypes.func,
