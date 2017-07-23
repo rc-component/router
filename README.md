@@ -1,5 +1,7 @@
 # router
 
+**DEPRECATED, DON'T USE IT**
+
 Router Component for [react](https://facebook.github.io/react/).
 
 ## Design philosophy
